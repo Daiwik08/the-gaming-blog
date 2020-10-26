@@ -9,7 +9,8 @@ img {
     width: 30%;
     border-radius: 50%;
 }
-
+img:hover {
+    transform: scale(0.9); }
 p {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
